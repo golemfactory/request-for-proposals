@@ -1,4 +1,5 @@
-# RFP: Research for Golem Provider Support on Windows Platform
+# RFP #1: Research for Golem Provider Support on Windows Platform
+
 
 **Published by:** Golem Factory  
 **Funding Source:** Golem Network Ecosystem Fund  
