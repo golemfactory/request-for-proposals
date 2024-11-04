@@ -4,6 +4,8 @@ We are building an ecosystem to empower developers, researchers, and entrepreneu
 
 This repository is dedicated to the **Request for Proposals (RFP)** process, serving as a hub for collaboration and innovation within the Golem Network. Here our Core Team outlines specific projects, features, and areas of research that align with our development needs. By providing detailed RFPs, we aim to clearly communicate our strategic priorities and the opportunities available for contributors. 
 
+We invite all contributors interested in taking on these RFPs to apply for funding through the Golem Ecosystem Fund.
+
 ## Repository Structure
 The repository is organized into two main sections:
 - **Open RFPs**: Projects currently available for proposal submissions.
