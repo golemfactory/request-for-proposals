@@ -2,7 +2,7 @@
 
 We are building an ecosystem to empower developers, researchers, and entrepreneurs in realizing their visions by advancing the Golem and Ethereum networks, delivering optimal solutions for global demand, backed by a 40,000 ETH stake, with 75% of rewards currently allocated to beneficiaries, and potential adjustments based on program performance.
 
-This repository is dedicated to the **Request for Proposals (RFP)** process. Here, Golem Factory lists specific projects, features, and areas of research that align with our vision. We invite contributors interested in taking on these RFPs to apply for funding through the Ecosystem Fund. Each RFP has a customized funding amount based on the project’s complexity and scope.
+This repository is dedicated to the **Request for Proposals (RFP)** process, serving as a hub for collaboration and innovation within the Golem Network. Here our Core Team outlines specific projects, features, and areas of research that align with our development needs. By providing detailed RFPs, we aim to clearly communicate our strategic priorities and the opportunities available for contributors. 
 
 ## Repository Structure
 The repository is organized into two main sections:
