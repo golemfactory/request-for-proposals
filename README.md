@@ -1,6 +1,6 @@
 # Request for Proposals
 
-The Golem Network has launched its **Ecosystem Fund** to support projects that advance and strengthen the Golem Network. To fuel this initiative, we have staked **40,000 ETH**, with 75% of earnings dedicated directly to the Ecosystem Fund, which currently holds over 300 ETH ready to fund impactful projects. This fund is primarily dedicated to driving innovation within the Golem Network, with additional support available for projects that contribute to the wider Ethereum ecosystem.
+We are building an ecosystem to empower developers, researchers, and entrepreneurs in realizing their visions by advancing the Golem and Ethereum networks, delivering optimal solutions for global demand, backed by a 40,000 ETH stake, with 75% of rewards currently allocated to beneficiaries, and potential adjustments based on program performance.
 
 This repository is dedicated to the **Request for Proposals (RFP)** process. Here, Golem Factory lists specific projects, features, and areas of research that align with our vision. We invite contributors interested in taking on these RFPs to apply for funding through the Ecosystem Fund. Each RFP has a customized funding amount based on the project’s complexity and scope.
 
