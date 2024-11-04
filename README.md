@@ -16,10 +16,16 @@ To apply for an RFP, please visit our [ecosystem page](https://ecosystem.golem.n
 Our team is committed to reviewing each submission thoroughly and will provide feedback or guidance to help refine your proposal if necessary.
 
 ## Proposal Review Process
-1. **Internal Review**: Every proposal is first reviewed internally to ensure it meets our guidelines and requirements, as listed at the bottom of our [ecosystem fund page](https://ecosystem.golem.network/). Proposals that do not meet these standards will be either returned for revision or rejected.
 
-2. **Community Review**: Once a proposal passes the internal review, it will be shared publicly to gather community feedback. This step helps us gauge whether the community sees value in the proposed project, considers it beneficial, and offers any additional insights or suggestions.
+For full details on the application process, please refer to the [ecosystem fund page](https://ecosystem.golem.network/). Below is an overview of the key steps involved:
 
+1. **Submit Your Application**: Select an open RFP that aligns with your expertise and interests. In your application, outline your approach to achieving the project objectives, including relevant information that demonstrates your capability to successfully complete the project.
+
+2. **Review and Approval**: Each proposal is reviewed internally by the Golem Team to ensure it meets our guidelines and requirements. Once internally approved, the proposal will be shared publicly for community feedback to gauge its perceived value and gather additional insights. 
+
+3. **Milestones and Funding**: Approved projects will have clear milestones established in collaboration with the Golem Team. Funding will be disbursed incrementally upon the completion of each milestone, helping support progress while ensuring alignment with project objectives.
+
+For more comprehensive guidelines and specific requirements, please consult the bottom of our [ecosystem fund page](https://ecosystem.golem.network/).
 ---
 
 ### Have an Idea Outside of RFPs?
