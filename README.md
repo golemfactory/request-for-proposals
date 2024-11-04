@@ -17,15 +17,12 @@ Our team is committed to reviewing each submission thoroughly and will provide f
 
 ## Proposal Review Process
 
-For full details on the application process, please refer to the [ecosystem fund page](https://ecosystem.golem.network/). Below is an overview of the key steps involved:
+1. **Submit Your Application**: Review the open RFPs provided by Golem and select a project that aligns with your expertise and interests. In your application, outline your proposed approach to fulfilling the project objectives. Include relevant information that demonstrates your capability to successfully complete the project.
 
-1. **Submit Your Application**: Select an open RFP that aligns with your expertise and interests. In your application, outline your approach to achieving the project objectives, including relevant information that demonstrates your capability to successfully complete the project.
+2. **Review and Approval**: The Golem Team, in collaboration with the community, will evaluate applications based on potential feasibility and alignment with Golem’s goals.
 
-2. **Review and Approval**: Each proposal is reviewed internally by the Golem Team to ensure it meets our guidelines and requirements. Once internally approved, the proposal will be shared publicly for community feedback to gauge its perceived value and gather additional insights. 
+3. **Milestones and Funding**: Once approved, clear project milestones will be established, tailored to the specific RFP. Funding will be disbursed incrementally upon the successful completion of each milestone, providing resources to support your progress while ensuring accountability and alignment with project objectives.
 
-3. **Milestones and Funding**: Approved projects will have clear milestones established in collaboration with the Golem Team. Funding will be disbursed incrementally upon the completion of each milestone, helping support progress while ensuring alignment with project objectives.
-
-For more comprehensive guidelines and specific requirements, please consult the bottom of our [ecosystem fund page](https://ecosystem.golem.network/).
 ---
 
 ### Have an Idea Outside of RFPs?
