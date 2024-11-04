@@ -11,7 +11,9 @@ The repository is organized into two main sections:
 - **Open RFPs**: Projects currently available for proposal submissions.
 - **Closed RFPs**: Previously funded or completed RFPs for reference.
 
-To apply for an RFP, please visit our [ecosystem page](https://ecosystem.golem.network/) and submit your application manually. Although we aim to move to a fully transparent, Git-based application process in the future, applications are currently processed through our website form.
+To apply for an RFP, please visit our [ecosystem page](https://ecosystem.golem.network/) and submit your application through our website form. We encourage all interested contributors to provide detailed proposals that outline their approach, timeline, and resources needed to accomplish the project’s objectives.
+
+Our team is committed to reviewing each submission thoroughly and will provide feedback or guidance to help refine your proposal if necessary.
 
 ## Proposal Review Process
 1. **Internal Review**: Every proposal is first reviewed internally to ensure it meets our guidelines and requirements, as listed at the bottom of our [ecosystem fund page](https://ecosystem.golem.network/). Proposals that do not meet these standards will be either returned for revision or rejected.
