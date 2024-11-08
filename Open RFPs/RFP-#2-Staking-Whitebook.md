@@ -1,4 +1,4 @@
-# RFP #2: Staking Whitebook – Open-Source Guide to Ethereum Staking with Raspberry Pi
+# RFP #2: Staking Whitebook – Open-Source Guide to Ethereum Staking
 
 **Published by:** Golem Factory  
 **Funding Source:** Golem Network Ecosystem Fund  
@@ -7,64 +7,61 @@
 
 ---
 
-## Overview
+## 1. Overview
 
-The **Staking Whitebook** is a comprehensive, open-source guide aimed at helping individuals and organizations stake Ethereum independently using cost-effective hardware like Raspberry Pi devices. This guide will draw from our extensive experience in staking 40,000 ETH, which included securing staking operations across multiple testnets and mainnet, implementing high-security protocols, and testing hardware configurations like Raspberry Pi.
+The **Staking Whitebook** project aims to address the lack of clear, consolidated guidance we encountered when staking a significant amount of ETH for the Golem Ecosystem Fund. Although fragments of information are available, there is no comprehensive, open-source resource that covers practical steps and best practices for independent staking across various hardware.
 
-The Whitebook will incorporate key insights from our recent staking experiments, including the methods used to optimize validator infrastructure, enhance security, and reduce hardware costs. The goal is to provide a practical, tested framework for Ethereum staking on affordable hardware, enabling more people to participate in staking securely and efficiently.
+As the writer, you will work closely with our team to gather and organize the insights we’ve gained from hands-on testing. Together, we’ll document actionable steps for different staking platforms, evaluating each for cost-effectiveness, security, and performance. The result will be the structured guide we needed ourselves—a resource to help both new and experienced stakers confidently set up and manage their nodes.
 
-## Scope of Work
+## 2. Scope of Work
 
-The Staking Whitebook will cover the following essential areas:
+The Staking Whitebook will cover key areas for Ethereum stakers across platforms, including:
 
 1. **Best Practices and Security Guidelines**  
-   - A comprehensive section on security practices essential for staking on Raspberry Pi, including the use of multisig contracts, network isolation, and hardware configuration to ensure optimal safety and reliability.
+   - Detailed security practices specifically for staking on diverse hardware, covering best practices for securing network configuration, multisig setups, and hardware choices.
 
 2. **Step-by-Step Setup Instructions**  
-   - Detailed instructions for setting up and managing validators on Raspberry Pi hardware. This will cover our tested process from initial setup to large-scale deployments, including software installations, client configuration, and performance tuning.
+   - Detailed, step-by-step instructions for setting up and managing staking nodes on various hardware options, including Raspberry Pi, consumer-grade desktops, and specialized devices. Covers initial installation, client configuration, and techniques for optimizing performance.
 
-3. **Cost-Effective Staking Solutions**  
-   - Guidelines on using Raspberry Pi as a low-cost, sustainable solution for Ethereum staking, with insights on balancing affordability with security. This will include recommendations for additional components like storage solutions, thermal management, and redundancy setups.
+3. **Platform Comparisons and Cost-Effectiveness**  
+   - Comparative analysis of hardware options, outlining pros and cons of each platform with recommendations on balancing costs with security, including considerations for storage, cooling, and redundancy.
 
 4. **Risk Management Strategies**  
-   - An outline of risk mitigation techniques, based on our operational security practices. This includes strategies like isolated staking pools, monitoring for performance issues, and handling network downtimes or hardware malfunctions.
+   - Techniques for risk mitigation, including setup for isolated staking pools, methods for monitoring issues, and handling downtimes or hardware failures.
 
 5. **Scaling Validator Infrastructure**  
-   - Insights from our experience in scaling validator operations to thousands of validators, adapted for Raspberry Pi hardware. This section will provide strategies for organizations interested in securely scaling their staking infrastructure while managing high validator counts on affordable devices.
-
-## Project Impact
-
-The Staking Whitebook is expected to:
-
-- **Increase Accessibility**: By focusing on Raspberry Pi as a staking solution, the Whitebook will lower technical and financial barriers, making Ethereum staking achievable for a broader audience.
-- **Enhance Network Security**: More validators using secure, affordable setups will increase Ethereum’s decentralization and resilience.
-- **Share Knowledge**: The Whitebook will serve as an open, centralized resource that standardizes best practices, allowing new and existing stakers to confidently engage in staking.
+   - Guidance on scaling validator setups across platforms, with strategies for managing higher validator counts while keeping infrastructure secure and cost efficient.
 
 
-## Why Support This Project?
+## 3. Project Goals
 
-This project reflects Golem Network’s commitment to strengthening Ethereum. By sharing our findings from extensive staking tests on testnets, mainnet, and Raspberry Pi devices, the Whitebook will offer the Ethereum community a reliable, open-source guide to independent staking.
+This Whitebook project aims to make Ethereum staking more accessible by providing guidance across multiple hardware options. It includes a balanced comparison of platforms, detailing their strengths and limitations to help reduce technical and financial barriers for a wide range of users.
 
+The goal is to create a resource that supports individuals and organizations in setting up staking nodes, managing risks, and optimizing operations. This Whitebook will outline best practices to serve as a centralized resource for the Ethereum community.
 
-## Deliverables
+## 4. Deliverables
 
 1. **Staking Whitebook Document**  
-   - A structured, open-source document covering the areas outlined above, with practical examples and best practices based on our real-world staking experience with Raspberry Pi.
+   - A structured, open-source document based on testing across different hardware setups, covering security practices, platform comparisons, and best practices for Ethereum staking, with practical examples.
 
 2. **Implementation Guide Examples**  
-   - Configuration guides and practical examples for staking setups on Raspberry Pi, providing scalable and secure solutions tailored to individual and organizational needs.
+   - Configuration guides for staking on various platforms, including Raspberry Pi, desktops, and servers, with specific configurations tested for performance, stability, and resilience.
+
 
 3. **Security and Feasibility Assessment**  
-   - An assessment of security practices, risk management strategies, and the scalability of Raspberry Pi staking setups, grounded in our comprehensive testing on mainnet and testnet environments.
+   - An evaluation of security measures, risk management techniques, and the reliability of staking setups tested across mainnet and testnet environments, including performance under network and hardware stress.
 
-## Proposal Requirements
+
+## 5. Proposal Requirements
 
 Proposals submitted in response to this RFP should fully comply with the guidelines and requirements detailed on our [ecosystem fund page](https://ecosystem.golem.network/). Ensure your submission aligns with all criteria listed to improve its chances of approval.
 
-## Submission Instructions
+## 6. Submission Instructions
 
 Please submit your proposal via our [ecosystem page](https://ecosystem.golem.network/). Ensure that your proposal follows the guidelines and requirements listed at the bottom of the ecosystem fund page. When submitting, reference **RFP #2: Staking Whitebook** to help us categorize your application.
 
+For any questions or further clarification, feel free to reach out to the Golem Network team at [contact@golem.network](mailto:contact@golem.network).
+
 ---
 
-This RFP offers an opportunity to contribute to Ethereum’s staking landscape by creating an accessible, secure, and comprehensive guide. We look forward to proposals that will help establish a valuable resource for the staking community.
+This RFP offers an opportunity to contribute to Ethereum’s staking ecosystem by creating an accessible, secure, and comprehensive guide. We look forward to proposals that will help establish a valuable, community-driven resource for Ethereum staking.
