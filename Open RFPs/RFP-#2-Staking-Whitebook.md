@@ -9,9 +9,11 @@
 
 ## 1. Overview
 
-The **Staking Whitebook** project aims to address the lack of clear, consolidated guidance we encountered when staking a significant amount of ETH for the Golem Ecosystem Fund. Although fragments of information are available, there is no comprehensive, open-source resource that covers practical steps and best practices for independent staking across various hardware.
+The **Staking Whitebook** project addresses the gap in clear, consolidated guidance for staking ETH independently. While scattered information exists, there is no comprehensive, open-source guide covering the practical steps and best practices for independent staking across various hardware setups.
 
-As the writer, you will work closely with our team to gather and organize the insights we’ve gained from hands-on testing. Together, we’ll document actionable steps for different staking platforms, evaluating each for cost-effectiveness, security, and performance. The result will be the structured guide we needed ourselves—a resource to help both new and experienced stakers confidently set up and manage their nodes.
+We need you to conduct in-depth research, compile it, and organize the insights gained, including those from Golem's hands-on testing during our staking process. You will document actionable steps for different staking platforms, evaluating each for cost-effectiveness, security, and performance.
+
+The outcome will be the guide we wish we had. This guide will support the broader mission of Golem in empowering individuals with decentralized technology. Golem aims to make staking more accessible by providing a clear, actionable resource to help users navigate the complexities of independent staking. Ultimately, this will contribute to a stronger and more decentralized network, guiding both new and experienced stakers in setting up and managing their nodes effectively.
 
 ## 2. Scope of Work
 
